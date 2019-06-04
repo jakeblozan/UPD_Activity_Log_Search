@@ -13,9 +13,9 @@ public class Search
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Welcome! Please enter the name of the document you would like to search (with extension):\n");
-        // String fileName = scan.nextLine();
+        String fileName = scan.nextLine();
         System.out.print("\n");
-        String fileName = "Activity Logs - University Police Department - Cal Poly.html";
+        // String fileName = "Activity Logs - University Police Department - Cal Poly.html";
 
         new Trimmer().trim(fileName);
 
