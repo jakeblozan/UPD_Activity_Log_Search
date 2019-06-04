@@ -1,14 +1,4 @@
 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-
-<title>Activity Logs - University Police Department - Cal Poly</title>
-
-</head>
-
-<body>
-
 <p>Activity Logs, summarizing incidents reported to the University Police over the past sixty days, appear with the most recent log at the top of the list. An updated log is generally posted by 9:00 AM the following day.</p>
 
 
